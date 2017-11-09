@@ -1,0 +1,5 @@
+/home/vagrant/gitrepo/game-of-life-master/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/Universe.java
+/home/vagrant/gitrepo/game-of-life-master/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/GridReader.java
+/home/vagrant/gitrepo/game-of-life-master/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/Grid.java
+/home/vagrant/gitrepo/game-of-life-master/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/GridWriter.java
+/home/vagrant/gitrepo/game-of-life-master/gameoflife-core/src/main/java/com/wakaleo/gameoflife/domain/Cell.java
